@@ -1,2 +1,2 @@
-# Portfolio-Nicol-s-Gangi
+# Portfolio Nicolas Gangi
 My own portfolio in progress

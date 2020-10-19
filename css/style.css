@@ -313,6 +313,7 @@ nav ul li a {
   font-size: 28px;
   text-align: left;
   color: #242f39;
+  margin-top: 20px;
 }
 
 #about .about-descr .separator {
@@ -354,7 +355,7 @@ nav ul li a {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: #242f39;
   line-height: 44px;
 }
 
@@ -381,13 +382,21 @@ nav ul li a {
 }
 
 .services-carousel .owl-dot.active {
-  background-color: #b8a07e;
+  background-color: #242f39;
 }
 
 .owl-nav {
   display: none;
 }
 
+/*-----------------------------------------------------------------------------------*/
+/*  Experience
+/*-----------------------------------------------------------------------------------*/
+
+
+#experience {
+  background: #f7f7f7;
+}
 
 /*-----------------------------------------------------------------------------------*/
 /*  Portfolio
@@ -521,6 +530,7 @@ nav ul li a {
 #contact {
   height: auto;
   width: 100%;
+  background: #f7f7f7;
 }
 
 .contact-details {
@@ -575,7 +585,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #footer {
-  background: #f7f7f7;
+  background: #ffffff;
   padding-top: 50px;
   padding-bottom: 50px;
 }

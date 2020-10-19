@@ -79,7 +79,17 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Nicolás Gangi.", "Developer.", "Engineer.", "Ski Instructor.", "Designer"],
+      strings: ["Nicolás Gangi.", "a Developer.", "an Engineer.", "a Ski Instructor.", "a Designer."],
+      typeSpeed: 100,
+      loop: true,
+    });
+  });
+
+  var typed2 = $(".typed2");
+
+  $(function() {
+    typed2.typed({
+      strings: ["Nicolás Gangi.", "Desarrollador.", "Ingeniero.", "Instructor de Ski.", "Diseñador."],
       typeSpeed: 100,
       loop: true,
     });

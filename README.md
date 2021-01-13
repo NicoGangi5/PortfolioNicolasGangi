@@ -1,2 +1,2 @@
 # Portfolio Nicolas Gangi
-My own portfolio
+My own portfolio in progress

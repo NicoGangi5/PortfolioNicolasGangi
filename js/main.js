@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Nicolás Gangi.", "a Developer.", "an Engineer.", "a Ski Instructor.", "a Designer."],
+      strings: ["Nicolás Gangi.", "a Data Scientist.", "an Engineer.", "a Ski Instructor.", "a Designer."],
       typeSpeed: 100,
       loop: true,
     });
@@ -89,7 +89,7 @@ $(document).ready(function() {
 
   $(function() {
     typed2.typed({
-      strings: ["Nicolás Gangi.", "Desarrollador.", "Ingeniero.", "Instructor de Ski.", "Diseñador."],
+      strings: ["Nicolás Gangi.", "Científico de Datos.", "Ingeniero.", "Instructor de Ski.", "Diseñador."],
       typeSpeed: 100,
       loop: true,
     });
